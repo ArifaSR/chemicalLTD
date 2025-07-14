@@ -1,0 +1,1 @@
+jQuery(window).load(function(){"use strict";jQuery('.tmnf_eleslider').owlCarousel({center:true,items:1,loop:true,autoplay:'true',autoplayTimeout:8000,nav:true,stagePadding:0,navText:[],margin:0,dots:true,dotData:true,dotsData:true,});});
